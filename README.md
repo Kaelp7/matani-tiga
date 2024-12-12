@@ -19,13 +19,13 @@ To get started with this project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/monitoring-project.git
+   git clone https://github.com/Kaelp7/matani-tiga.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd monitoring-project
+   cd matani-tiga
    ```
 
 3. **Install dependencies**:

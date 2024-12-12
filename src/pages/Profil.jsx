@@ -18,14 +18,14 @@ const Profil = () => {
       <br></br>
       <h1 className="text-xl font-bold text-gray-600 mb-4">Struktur Organisasi Pemerintahan Kelurahan</h1>
       <img
-  src="../src/assets/profil-matani-tiga.png"
+  src="profil-matani-tiga.png"
   alt="Struktur"
   style={{ width: '1000px', height: '1000px' }}  // Set ukuran secara inline
 />
     <br></br>
     <h1 className="text-xl font-bold text-gray-600 mb-4">Sejarah Kelurahan Matani Tiga</h1>
     <img
-      src="../src/assets/kantor-lurah.jpg"
+      src="kantor-lurah.jpg"
       alt="Kantor"
       style={{ width: '500px', height: '500px' }}  // Set ukuran secara inline
     />
